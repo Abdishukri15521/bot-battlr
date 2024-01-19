@@ -1,0 +1,17 @@
+# Flatdango - Movie Ticket Booking Web App
+
+## Project Description
+Flatdango is a mini web application that allows users to explore movie details and purchase tickets from the Flatiron Movie Theater. The application fetches movie data from a local JSON DB server, providing users with information about available movies, their details, and the ability to buy tickets.
+
+## Installation Instructions
+
+### Prerequisites
+Before you start, make sure you have the following installed on your machine:
+
+- Node.js: [Download Node.js](https://nodejs.org/)
+- npm (Node Package Manager): Comes with Node.js installation
+
+### Setup
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/flatdango.git
